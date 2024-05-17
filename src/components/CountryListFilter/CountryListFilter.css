@@ -1,0 +1,13 @@
+.country-list-filter {
+  display: flex;
+  align-items: center;
+}
+
+.country-list-filter input,
+.country-list-filter select {
+  margin-right: 10px;
+}
+
+.country-list-filter button {
+  margin-left: auto;
+}

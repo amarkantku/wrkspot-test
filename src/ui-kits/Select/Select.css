@@ -1,0 +1,15 @@
+.select-container {
+  display: block;
+  padding: 8px;
+}
+
+.select-container select {
+  height: 40px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 8px 10px;
+  font-size: 16px;
+  outline: none;
+}
